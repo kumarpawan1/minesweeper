@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="game_over_title">Game Over !!</string>
+    <string name="game_over_message">Boom! Mine Touched !!</string>
+    <string name="game_over_button">See the progress</string>
+    <string name="new_game">Start New Game</string>
+    <string name="new_game_message"> Do you want to start new game?</string>
+    <string name="game_success_title">Congrats !!</string>
+    <string name="game_success_message">You Won!</string>
+    <string name="game_success_button">Start New Game</string>
+</resources>
