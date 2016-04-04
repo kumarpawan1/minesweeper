@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Minesweeper
 ### Rules of Minesweeper
 
@@ -57,3 +58,6 @@ You can execute **adb install -r minesweeper-debug.apk** or **adb install -r min
 * Customize Game Level
 
 ![alt Customize Game Level](https://github.com/chenglongwei/minesweeper/blob/master/screenshort/custom_level.png "Customize Game Level")
+=======
+# minesweeper
+>>>>>>> 03664172a683bb3c815267e7e7817ff4d4fa56b8
